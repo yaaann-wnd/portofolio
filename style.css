@@ -1,0 +1,155 @@
+.navbar {
+    height: 70px !important;
+}
+
+.nav-item {
+    margin-right: 10px;
+}
+
+.btn-navbar {
+    background-color: orange;
+    padding: 10px;
+    color: white;
+    width: 95px;
+    border: none;
+    border-radius: 20px;
+    transition: .3s;
+}
+
+.btn-navbar:hover {
+    background-color: rgb(250, 199, 103);
+}
+
+.name {
+    color: orange;
+}
+
+.gambar-kanan {
+    width: 400px;
+    height: 400px;
+    background-image: url(bootstrap/img/bg1.png);
+    background-size: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flex;
+}
+
+.gambar-profil {
+    margin: auto;
+    padding-top: 20px;
+}
+
+.gambar-kanan img {
+    width: 250px;
+    border-bottom-right-radius: 50%;
+    /* border-bottom-left-radius: 25%; */
+}
+
+.content {
+    height: 60vh;
+}
+
+.text-kiri {
+    margin-right: 150px;
+}
+
+.btn-intro {
+    margin-left: 50px;
+    width: 120px;
+    background-color: orange;
+    border: none;
+    color: white;
+    padding: 10px;
+    border-radius: 20px;
+    transition: .3s;
+}
+
+.btn-intro:hover {
+    background-color: rgb(250, 199, 103);
+}
+
+.container-md {
+    padding: 0 100px 0 100px;
+}
+
+.card {
+    border: none !important;
+}
+
+.btn-cv {
+    margin-left: 50px;
+    width: 150px;
+    background-color: orange;
+    border: none;
+    color: white;
+    padding: 10px;
+    border-radius: 20px;
+    transition: .3s;
+}
+
+.card-kanan {
+    margin: 0;
+}
+
+.card-body {
+    margin-top: -10px;
+}
+
+.header-orange {
+    color: orange;
+}
+
+.card_1 {
+    margin-right: -30px;
+}
+
+.client-wrapper {
+    margin: 70px 0 70px 0;
+}
+
+.client {
+    height: 60vh;
+}
+
+.gambar-kanan-2 {
+    padding: 30px;
+    background-image: url(bootstrap/img/circle.png);
+    background-size: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin-left: 100px;
+}
+
+.gambar-kanan-2 img {
+    border-radius: 50%;
+    background-color: rgba(255, 202, 103, 0.514);
+    width: 50px;
+}
+
+.brand {
+    color: orange;
+}
+
+.btn-detail {
+    width: 150px;
+    background-color: orange;
+    border: none;
+    color: white;
+    padding: 10px;
+    border-radius: 20px;
+    transition: .3s;
+}
+
+.btn-footer {
+    width: 150px;
+    background-color: orange;
+    border: none;
+    color: white;
+    padding: 10px;
+    border-radius: 20px;
+    transition: .3s;
+}
+
+.footer-wrapper {
+    height: 50vh;
+}
